@@ -5,8 +5,8 @@ for i in range(a):
     if t == 0: 
         stack.pop(-1)
     else:
-        stack.append(t)
-        
+        stack.append(t) 
+
 if not stack:
     print(0)
 else:
