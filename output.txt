@@ -1,0 +1,6 @@
+큐 선언
+1
+2
+3
+Queue is Empty
+None
